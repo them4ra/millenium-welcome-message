@@ -1,4 +1,5 @@
-![image](https://github.com/them4ra/millenium-welcome-message/assets/24626919/3adf992d-6895-444a-ac18-8d64480cb8c1)
+![image](https://github.com/them4ra/millenium-welcome-message/assets/24626919/d1e6494d-4fe8-46f0-b9bb-542a39e41cef)
+
 
 
 # Millenium Welcome Message for Bash
