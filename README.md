@@ -17,3 +17,8 @@ The bash script has a variable <b>doomsday</b> where you set the date you want t
 The script will welcome you using the the username you login with. For this reason you may need to adjust the whitespace after the $USER variable in the middle of the ASCII art ouroboros so it doesn't break if you have a longer or shorter username. 
 
 After you have set these two things up you can paste this into /etc/motd or wherever your ssh welcome message is stored. 
+
+# Feedback
+If you know how to format whitespace in a way that would adjust according to the length of the username let me know!
+
+I have also thought of adding useful data to the end of the script so if you have anything in mind you let me know about it as well. 
